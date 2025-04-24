@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Aryan in Branch 1" 
+=======
+"Aryan in Branch 2" 
+>>>>>>> branch-2
